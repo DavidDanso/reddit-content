@@ -22,3 +22,5 @@ scripts:
   #   - docker compose down -v
 
   # rav run <script_name>
+  # pre-commit run --all-files
+  # pre-commit install
